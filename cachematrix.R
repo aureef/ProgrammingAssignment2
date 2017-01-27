@@ -1,4 +1,4 @@
-## COURSERA - R Programming - Assignement 2
+## COURSERA - R Programming - Assignment 2
 ###############################################################################
 ## Here are a pair of functions that cache the inverse of an invertible matrix.
 ## 1/ Function makeCacheMatrix creates a special "matrix" object that can cache 
